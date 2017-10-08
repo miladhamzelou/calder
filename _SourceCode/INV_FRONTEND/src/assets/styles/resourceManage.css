@@ -1,0 +1,25 @@
+
+/*可租，浅蓝色*/
+.resourceManage.ui.grid>.row>.column.myBlue1{
+	margin-top: -1rem;
+  margin-bottom: -1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+	background-color:#91c7ae;
+}
+/*在交谈，深蓝色*/
+.resourceManage.ui.grid>.row>.column.myBlue2{
+	margin-top: -1rem;
+  margin-bottom: -1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+	background-color:#61a0a8;
+}
+/*已租，红色*/
+.resourceManage.ui.grid>.row>.column.myRed{
+	margin-top: -1rem;
+  margin-bottom: -1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+	background-color:#c23531;
+}

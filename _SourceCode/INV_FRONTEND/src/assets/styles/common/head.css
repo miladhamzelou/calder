@@ -1,0 +1,62 @@
+.ui.header.login_header {
+    color: #ffffff;
+}
+
+.ui.form .field>label {
+    float: left;
+}
+.ui.fixed.menu+.ui.grid.content {
+    padding-top: 64px;
+}
+
+.ui.menu.head {
+    margin: 0;
+    background-color: #0099CC;
+    color: #ffffff;
+    height: 50px;
+}
+
+.ui.top.menu.head .item {
+    color: #ffffff;
+}
+
+.ui.top.menu.head .item:before {
+    width: 0;
+}
+
+.ui.top.menu.head .item:hover {
+    color: #ffffff;
+    background: transparent;
+}
+
+.ui.top.menu.head .item.logo {
+    width: 40px;
+    padding: 0px;
+    padding-left: 10px;
+}
+
+.ui.top.menu.head .right.menu .item  {
+    border-right: 1px solid #008fbf;
+}
+
+.ui.top.menu.head .right.menu .ui.dropdown .menu > .item {
+    border: 0px;
+}
+.right.menu .item  .white{
+    color: #ffffff;
+}
+
+.ui.top.menu.head .right.menu .item:first-child {
+    border-left: 1px solid #008fbf;
+}
+
+.right.menu .ui.item .alert_message {
+    font-size: 12px;
+    color: #fff;
+    background: #ff9900;
+    border-radius: 5px;
+    padding: 2px 5px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
